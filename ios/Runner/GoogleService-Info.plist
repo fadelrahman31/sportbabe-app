@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>56249056037-9t07ukecaccm849uka0j4fn3qr932u8a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.56249056037-9t07ukecaccm849uka0j4fn3qr932u8a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>56249056037-rak914v78h5r9mk7b5al7eqk89nrr12k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuzN0W8gKs_7QMe8anFMTi63PO8rEUyKQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>56249056037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sportbabe</string>
+	<key>PROJECT_ID</key>
+	<string>sportbabe-a348c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sportbabe-a348c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:56249056037:ios:39535d000ce4cc6ccd78cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://sportbabe-a348c.firebaseio.com</string>
+</dict>
+</plist>
