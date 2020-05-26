@@ -8,5 +8,5 @@ https://bit.ly/SportbabeLiveDemo
 ## sportbabe Developers
 
 1. Fadel Nararia Rahman @fadelrahman31
-2. David Petra Nararia @petra_gtr
+2. David Petra Nararia @davidpetra
 3. Vincent @jamesvincentsiauw
