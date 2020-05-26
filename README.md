@@ -4,3 +4,9 @@ SportBabe Application is Flutter-based productivity application that helps and f
 
 Watch the live demo of the Sportbabe application down below!
 https://bit.ly/SportbabeLiveDemo
+
+## sportbabe Developers
+
+1. Fadel Nararia Rahman @fadelrahman31
+2. David Petra Nararia @petra_gtr
+3. Vincent @jamesvincentsiauw
